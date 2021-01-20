@@ -1,0 +1,26 @@
+{
+    "name": "4 Reality Indonesia",
+    "short_name": "4R ID",
+    "description": "4 REALITY Team is a VTuber / Virtual Liver team to which a wide variety of content creator belong, with the aim of improving Indonesian Virtual entertainment through various content, such as: VSinger, VGamer, VStreamer, etc.",
+    "lang": "en-US",
+    "dir": "ltr",
+    "theme_color": "#171717",
+    "start_url": ".",
+    "background_color": "#171717",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "icons": [{
+        "src": "/assets/icons/72x72.png",
+        "sizes": "72x72",
+        "type": "image/png"
+    }, {
+        "src": "/assets/icons/512x512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }, {
+        "src": "/assets/icons/maskable_icon_x1.png",
+        "sizes": "128x128",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }]
+}
